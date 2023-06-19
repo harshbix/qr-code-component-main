@@ -4,3 +4,13 @@
 {
     font-family: 'Outfit', 'sans-serif';
 }
+
+body
+{
+    background-color: hsl(212, 45%, 89%);
+}
+
+img
+{
+    border-radius: 6px;
+}
